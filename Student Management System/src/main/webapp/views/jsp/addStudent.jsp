@@ -14,7 +14,7 @@
 <body>
 
     <div class="container">
-        <h1 class="heading">Student Management System</h1>
+        <h1 class="heading">EduSphere</h1>
         <ul class="nav">
             <li><a href="viewAllStudent">Display All Student</a></li>
             <li><a href="/">Home</a></li>
