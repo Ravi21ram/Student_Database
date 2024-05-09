@@ -3,7 +3,7 @@
 
 <html>
 <head>
-    <title>Student Management System</title>
+    <title>EduSphere</title>
     <style type="text/css">
         <%@ include file="/views/css/style.css"%>
 
@@ -72,7 +72,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="heading">Student Management System</h1>
+        <h1 class="heading">EduSphere</h1>
         <ul class="nav">
             <li><a href="addStudent">Register Student</a></li>
             <li><a href="deleteStudent">Delete Student</a></li>
@@ -80,7 +80,7 @@
             <li><a href="viewAllStudent">Display All Student</a></li>
             
         </ul>
-        <marquee><h1 class="heading">Welcome to Student Management System</h1></marquee>
+        <marquee><h1 class="heading">Educate Motivate Empower.</h1></marquee>
     </div>
     <div>${PrintSwal}</div>
 </body>
